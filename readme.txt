@@ -1,6 +1,3 @@
-# Java-Pong
-A simple version of Pong programmed in Java (with simple AI included).
-
 Simple Pong game. Use W and S to control the left player and the up and down
 arrow keys to control the right player. If you want the left player to become
 controlled by AI, hit T. If you want the right player to be controlled by AI,
